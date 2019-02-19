@@ -20,6 +20,7 @@ public class Zona {
         this.numeroentradas = numeroentradas;
     }
 
+    //Resto entradas pedidas a las restantes
     public void ventaEntradas(int ventaentradas) {
         numeroentradas = numeroentradas - ventaentradas;
 
