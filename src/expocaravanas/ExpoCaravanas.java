@@ -49,7 +49,7 @@ public class ExpoCaravanas {
                 
                 System.out.println("Entradas disponibles sala principal : " + salaPrincipal.getNumeroentradas());
                 System.out.println("Entradas disponibles zona de Compra-Venta : " + zonaCompraVenta.getNumeroentradas());
-                System.out.println("Entradas disponibles en zona Vip : \n" + zonaVip.getNumeroentradas());
+                System.out.println("Entradas disponibles en zona Vip : " + zonaVip.getNumeroentradas());
                 
             } else if (opcion == 2) {//Elijo la zona de entradas que quiero comprar
                 
